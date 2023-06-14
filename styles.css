@@ -1,0 +1,76 @@
+body{
+  font-family: "Outfit", sans-serif;
+background-color: hsl(217, 54%, 11%);
+text-align: center;
+}
+
+#go{
+border-radius:20px;
+background-color: hsl(216, 50%, 16%);
+width:300px;
+height:550px;
+margin-top:30px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#rule{
+ color:hsl(0, 0%, 100%);
+ font-size:24px;
+padding-left:18px;
+text-align:left;
+margin:15px;
+}
+
+
+#img{
+width: 200px ;
+padding:15px;
+border-radius:30px;
+margin-top:15px;
+}
+
+#ruler{
+width:200px;
+margin-bottom:10px;
+}
+
+.m{
+text-align:left;
+padding-left:27px;
+font-size:20px;
+color :hsl(215, 32%, 27%);
+margin:1px;
+}
+
+#b{
+color:cyan;
+ font-weight: 400;
+text-align:left;
+padding:20px;
+margin:0px;
+}
+
+.w{
+font-size: 20px; 
+ display: flex; 
+ flex-direction: row; 
+ align-items: center;
+
+
+}
+
+#creator{
+text-align:left;
+}
+#owner{
+background-color:white;
+height:25px;
+ border-radius: 100px; 
+ padding:1px;
+ margin-right:10px;
+ display: inherit;
+ float:left;	
+ margin-left:25px;
+ text-allign:center;
+}
